@@ -14,9 +14,9 @@ public class Age {
 		
 		System.out.println("Congratulations on being " + inputValue);
 		
-		while(inputValue = 999){ //trying to delete the congratz on being for 999
+		//while(//inputValue = 999){ //trying to delete the congratz on being for 999
 			
-		}
+		//}
 		
 		while(inputValue!=999); {
 		
